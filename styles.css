@@ -27,4 +27,44 @@
     width: 1250px;
     height: 500px;
   }
+  #dd{
+    background-color: whitesmoke;
+    display: flex;
+    top: 10px;
+    left: 40px;
+    position: relative;
+    padding: 20px;
+  }
+  #ee{
+    background-color: blue;
+  }
+  .middle{
+    border-radius: 10px;
+    display: inline-block;
+    left: 100px;
+  }
+  #top{
+    top: 50px;
+    position: absolute;
+  }
+  #another{
+    border-radius: 10px;
+    background-color:rgb(2, 2, 29);
+  }
   
+  #p2{
+    color: white;
+    display: inline-block;
+  }
+#download{
+    width: 15px;
+}
+.data{
+    width: 20px;
+}
+#icon{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    width: 30px;
+    display: inline-block;
+}
