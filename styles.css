@@ -6,8 +6,25 @@
 }
 .top{
     display: inline-block;
+    position: relative;
+    left: 200px;
     width: 150px;
 }
 #cc:hover{
     color: lightblue;
 }
+#container{
+    max: width 4px;
+    margin: 0 auto;
+    width: 1200px;
+}
+@media (min-width: 950px) {
+    body {
+      background-color: white;
+    }
+  }
+  #img{
+    width: 1250px;
+    height: 500px;
+  }
+  
